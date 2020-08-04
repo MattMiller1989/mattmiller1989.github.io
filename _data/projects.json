@@ -1,18 +1,19 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
-		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"slug": "pomodoro-timer",
+		"name": "Pomodoro Timer",
+		"image": "pomodorotimer.png",
+		"url": "https://mattmiller1989.github.io/Pomodoro-Timer/",
+		"date": "April 2020",
+		"description": "This is a productivity timer that i use to keep me focused. It uses the Pomodoro Method of 25 minutes on, 5 minutes off. Although the user can adjust the time cylces if they wish",
+		"tags": ["Javascript","HTML", "CSS"]
 	},
 	{
-		"name": "Easy Links",
-		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"name": "Web Calculator",
+		"image": "Calculator.png",
+		"date": "March 2020",
+		"description": "Simple web calculator that properly follows order of operations and behaves as a scientific calculator.",
+		"tags": ["Javascript","HTML","CSS"]
 	},
 	{
 		"name": "Live Band Club",
@@ -27,25 +28,5 @@
 		"date": "Oct 2015",
 		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
 		"tags": ["PHP","HTML"]
-	},
-	{
-		"name": "Street Saver Certification Program",
-		"image": "streetsaver.png",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},
-	{
-		"name": "Tire Derived Aggregate",
-		"image": "tda.png",
-		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},{
-		"name": "JM Watts Chico",
-		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
 	}
 ]
