@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Furloughed"
 date:   2020-3-17 21:28:15 +0700
