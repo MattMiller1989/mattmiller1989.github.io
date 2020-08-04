@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Ruby"
+date:   2020-12-01 21:28:15 +0700
+---
+
+# Next Step
+
+After completing the introductory course in Javascript and HTML, The Odin Project is now moving on to Ruby. Before going in to TOP, I had only heard Ruby ever mentioned in the context of Ruby on Rails. My Programming experience up until now has been in C++, Java, and Javascript. Because i am millenial, the first thing i did when i was told that i had to learn Ruby was to google "What is the point of learning ruby". I discovered that the main use of Ruby is for Ruby on Rails, which is a web development framework that is supposed to make it super easy to build websites and such. Aside from rails, ruby behaves like many other OOP languages. In only one day of working with Ruby, i can definitely see the appeal of it. Most of the code reads like plain language, and does not require semicolons or troublesome syntax.
+
+```
+def pick(arr)
+    l=arr.length
+    max_profit=0
+    max_buy=nil
+    max_sell=nil
+    for x in 0..l-1 
+        
+        for y in x..l-1 
+            if arr[y]-arr[x]>max_profit 
+                max_profit=arr[y]-arr[x]
+                max_buy=x
+                max_sell=y
+            end
+        end
+    end
+
+    if max_sell!=nil&&max_buy!=nil
+        return [max_buy,max_sell]
+    else
+        return "No profits exist"
+    end
+end
+
+puts pick([17,3,6,9,1,8,6,10,15])
+```
+
+The above code was my very first little mini-project that i completed in Ruby. It is a simple stock picker which uses an array of integers and picks the best time to buy and sell for max profit.
+
