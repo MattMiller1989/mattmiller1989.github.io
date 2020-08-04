@@ -16,15 +16,18 @@ Today i went and treated myself to a kickass office chair so that my back doesnt
 
 I have been navigating through a Coursera course dedicated to Java programming and my current project that i am working on is a [Caesar-Cipher](https://en.wikipedia.org/wiki/Caesar_cipher). The encoding part is pretty simple, as it is little more than parsing through a string and adding the "key" value to whatever the numeric 'char' value of the current letter is. To make sure that the code wraps properly, all i have to do is create a "shifted" alphabet:
 
-`alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+```
+alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         shiftedAlphabet=alphabet.substring(key)+alphabet.substring(0,key);
-        mainKey=key;`
+        mainKey=key;
+```
         
 This is relatively simple.
 
 When it comes to actually DECRYPTING a caesar cipher, All you have to do is reverse the above code. This is ASSUMING that you know what the key is. If you DONT know what the key is, it get's a little trickier. The first step is finding the `max_index` value. This is the letter that occurs the most in the given string. From that, you can decipher to message:
 
-`CaesarCipher cc=new CaesarCipher();
+```
+CaesarCipher cc=new CaesarCipher();
         int[] freqs=countLetters(encrypted);
         int maxInd=maxIndex(freqs);
         int key=maxInd-4;
@@ -32,7 +35,9 @@ When it comes to actually DECRYPTING a caesar cipher, All you have to do is reve
         {
             key=26-(4-maxInd);
         }
-        return cc.encrypt(encrypted,26-key);`
+        return cc.encrypt(encrypted,26-key);
+        
+```
         
         
         
