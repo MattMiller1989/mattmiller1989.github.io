@@ -10,4 +10,4 @@ I am currently pursuing my Bachelors in Computer Science from UMKC. I am current
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/1wCUuF8KQG5CEe_EgDTxLmkVrbiiD5II5/view?usp=sharing" width="100%" height="900"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5-ISqQ5cG4rbp104hE9qrJ-26pPYz3xDEkW0Da0XHV07GYO6FN2E7MVjHVvyJT8yFdOLgrHac8QFj/pub?embedded=true"></iframe>
