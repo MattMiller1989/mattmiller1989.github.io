@@ -14,7 +14,7 @@ Most of The Odin Project will be worked on in a unix development environment. Th
 
 # First Project
 
-There have been a few trivial projects that i have done so far, such as creating a google homepage clone. My first big project will be to make a [Pomodor-productivity timer](https://en.wikipedia.org/wiki/Pomodoro_Technique). Most of it will be written in Javascript, but this will also be a great opportunity for me to flex my creative muscle and work on CSS and styling. This will hopefully be a worthwile portfolio project.
+There have been a few trivial projects that i have done so far, such as creating a google homepage clone as well as an [Etch-a-sketch](https://mattmiller1989.github.io/Etch-a-Sketch/). My first big project will be to make a [Pomodor-productivity timer](https://en.wikipedia.org/wiki/Pomodoro_Technique). Most of it will be written in Javascript, but this will also be a great opportunity for me to flex my creative muscle and work on CSS and styling. This will hopefully be a worthwile portfolio project.
 
 Chaire,
 
