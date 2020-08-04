@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby"
-date:   2020-12-01 21:28:15 +0700
+date:   2020-4-12 21:28:15 +0700
 ---
 
 # Next Step
