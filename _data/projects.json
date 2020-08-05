@@ -3,7 +3,7 @@
 		"slug": "pomodoro-timer",
 		"name": "Pomodoro Timer",
 		"image": "pomodorotimer.PNG",
-		"url": "https://mattmiller1989.github.io/Pomodoro-Timer/",
+		"url": "https://github.com/MattMiller1989/Pomodoro-Timer",
 		"date": "April 2020",
 		"description": "This is a productivity timer that i use to keep me focused. It uses the Pomodoro Method of 25 minutes on, 5 minutes off. Although the user can adjust the time cylces if they wish",
 		"tags": ["Javascript","HTML", "CSS"]
@@ -11,23 +11,23 @@
 	{
 		"name": "Web Calculator",
 		"image": "Calculator.PNG",
-		"url": "https://mattmiller1989.github.io/Calculator/",
+		"url": "https://github.com/MattMiller1989/Calculator",
 		"date": "March 2020",
 		"description": "Simple web calculator that properly follows order of operations and behaves as a scientific calculator.",
 		"tags": ["Javascript","HTML","CSS"]
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Command-Line Chess Game",
 		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"url": "https://github.com/MattMiller1989/Chess",
+		"date": "April 2020",
+		"tags": ["Ruby","rspec"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
+		"name": "Morse-Code Encoder/Decoder",
 		"image": "pp_logo.png",
-		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
+		"date": "July 2020",
+		"url": "https://github.com/MattMiller1989/Morse-Decoder-Encoder",
+		"tags": ["C++"]
 	}
 ]
