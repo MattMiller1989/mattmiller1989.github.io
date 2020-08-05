@@ -47,8 +47,8 @@ span.tags:last-child {
   display: block;
 }
 .project-img {
-  width: 230px;
-  height: 200px;
+  width: 50%;
+  height: 50%;
   display: block;
   background-size: contain;
   background-repeat: no-repeat;
