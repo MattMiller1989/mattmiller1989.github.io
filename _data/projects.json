@@ -10,7 +10,8 @@
 	},
 	{
 		"name": "Web Calculator",
-		"image": "Calculator.png",
+		"image": "Calculator.PNG",
+		"url": "https://mattmiller1989.github.io/Calculator/",
 		"date": "March 2020",
 		"description": "Simple web calculator that properly follows order of operations and behaves as a scientific calculator.",
 		"tags": ["Javascript","HTML","CSS"]
