@@ -6,7 +6,8 @@
   margin: 0 10px;
 }
 .project-img img {
-  width: 100%;
+  width: 50%;
+  height: 50%;
 }
 h3.project-headlines {
   margin: 5px 0;
