@@ -1,0 +1,27 @@
+layout: post
+title:  "Chess"
+date:   2020-5-01 21:28:15 +0700
+---
+
+# Another Game!!
+
+The final project for the Ruby portion of The Odin Project is to create a command line version of Chess with Ruby. We were given very little structure or guidance for this assignment. The architecture of the project was left to our own discretion. The one piece of advice that was given to us was to use RSPEC testing for the project. This made since given the insane number of possible permutations of a Chess game.
+
+# A Plan for Success!
+
+I was initially overwhelmed by the scope of this project and i couldnt bare to think of the number of lines of code it would take for me to fulfill the requirements. Earlier in quarantine, i followed a tutorial for building a Netflix reccomendation algorithm. One thing that was stressed in the tutorial, was to break the project into smaller parts and have benchmarks along the way. At these "benchmarks" i would utilize RSPEC testing to make sure that each feature worked properly before moving on to the next part of the project. I made an initial ouline describing my goals:
+
+1. Print the game board
+2. Print the UNIX code for each chess piece
+3. Write a generic game_piece class
+4. Write a Move class
+5. Write a class for each of the pieces that inherited the game_piece class
+6. create rules for each of the game pieces
+7. Allow the ability to capture other pieces
+8. Add a Game_runner class to manage the game loop
+9. Create method to determine "check"
+10. Add the ability to save and load games
+
+
+## Creating the board!
+
