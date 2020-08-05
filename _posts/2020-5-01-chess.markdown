@@ -404,8 +404,8 @@ def save_game()
 
 This project was 7 days and each of those days were at least 8 hours. Actually getting the game to run error free and work as intended was a MASSIVE confidence boost. A few of the lessons i learned were:
 
--Do not be afraid to erase code and start fresh with a new branch and start a segment of the code from scratch
--Learn to take breaks
+- Do not be afraid to erase code and start fresh with a new branch and start a segment of the code from scratch
+- Learn to take breaks
 
 
 
